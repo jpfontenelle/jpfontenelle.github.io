@@ -7,7 +7,7 @@ title: "Under Construction"
 
 Page under construction. Come back later.
 
-![Longlining in the Amazon](/longlining.jpg)
+![Longlining in the Amazon](/longlining.jpg | width = 200)
 
 ----------------------
 
