@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "JP Fontenelle"
+author: "João Pedro Fontenelle"
+description: "University of Toronto"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -11,18 +11,27 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+#  - {file: "index.html", title: "Home", icon: home}
+  - {file: "index.html", title: "Home"}
+  - {file: "news.md", title: "News"}
+  - {file: "research.md", title: "Research"}
+  - {file: "publications.md", title: "Publications"}
+  - {file: "cv.md", title: "CV"}
+  - {file: "README.md", title: "About"}
+  - {url: "https://www.jameslab.ca", title: "James Lab @ UofT"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:fontene3@gmail.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/jpf_ishes"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Joao-Pedro-Fontenelle"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.ca/citations?user=oVtKbp0AAAAJ&hl=en&authuser=1"}
+  - {title: Github, icon: github, url: "https://github.com/jpfontenelle"}
+  - {title: UofT, icon: university, url: "https://www.utoronto.ca"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
