@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "underconstruction.md", title: "News"}
   - {file: "underconstruction.md", title: "Research"}
   - {file: "underconstruction.md", title: "Publications"}
-  - {file: "underconstruction.md", title: "CV"}
+  - {file: "cv.md", title: "CV"}
 #  - {file: "README.md", title: "About"}
   - {file: "underconstruction.md", title: "About"}
   - {url: "https://www.jameslab.ca", title: "James Lab @ UofT"}
