@@ -32,7 +32,7 @@ Last updated: May/2021
 
 # _Technicals and Tutorials_
 
-* Calegari BB, and **Fontenelle JP**. **(2017)** Tutorial de preparação de mapas de distribuição geográfica Parte II-Mapa Hipsométrico / Distribution maps tutorial p.II - Hypsometric Maps. _Bol Soc Bras Ictiol._ (124):14-34. [**(PDF)**](https://www.researchgate.net/publication/323294779_Tutorial_de_preparacao_de_mapas_de_distribuicao_geografica_Parte_II-Mapa_Hipsometrico_Distribution_maps_tutorial_pII_-_Hypsometric_Maps)
+* Calegari, B. B., & **Fontenelle, J. P.**. **(2017)** Tutorial de preparação de mapas de distribuição geográfica Parte II-Mapa Hipsométrico / Distribution maps tutorial p.II - Hypsometric Maps. _Bol Soc Bras Ictiol._ (124):14-34. [**(PDF)**](https://www.researchgate.net/publication/323294779_Tutorial_de_preparacao_de_mapas_de_distribuicao_geografica_Parte_II-Mapa_Hipsometrico_Distribution_maps_tutorial_pII_-_Hypsometric_Maps)
 
 ----------------------------
 
