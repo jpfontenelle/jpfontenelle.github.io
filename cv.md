@@ -1,7 +1,9 @@
 ---
-layout: page
-title: "_Curriculum Vitae_"
+layout: default
+title: "Curriculum Vitae"
 ---
+
+# _Curriculum Vitae_ 
 
 You can download my CV [here](/JPF_cv2021_site.pdf)
 
