@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "underconstruction.md", title: "News"}
   - {file: "underconstruction.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
-  - {file: "underconstruction.md", title: "Press & Outreach"}
+  - {file: "press.md", title: "Press & Outreach"}
   - {file: "cv.md", title: "CV"}
 #  - {file: "README.md", title: "About"}
   - {file: "underconstruction.md", title: "About"}
