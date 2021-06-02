@@ -1,5 +1,5 @@
 ---
-title: "Neotropical Freshwater Stingrays biogeography paper featured at The New Scientist"
+title: "Biogeography of the Neotropical Freshwater Stingrays featured in The New Scientist"
 specifics: "press"
 mathjax: true
 author: JP
