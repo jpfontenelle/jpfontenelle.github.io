@@ -3,9 +3,13 @@ layout: page
 title: "Publications"
 ---
 
-Last updated: May/2021
+Last updated: July/2021
 
 # _Selected Publications_
+
+* **Fontenelle, J. P.**, Lovejoy, N. R., Kolmann, M. A., & Portella Luna Marques, F. **(2021)**. Molecular phylogeny for the Neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals limitations of traditional taxonomy. _Biological Journal of the Linnean Society_. [**(LINK)**](https://academic.oup.com/biolinnean/advance-article-abstract/doi/10.1093/biolinnean/blab090/6329148)
+
+* Albert, J. S., Bernt, M. J., Fronk, A. H., **Fontenelle, J. P.**, Kuznar, S. L., Lovejoy, N. R. **(2021)**. Late Neogene megariver captures and the Great Amazonian Biotic Interchange. _Global and Planetary Change_. [**(LINK)**](https://www.sciencedirect.com/science/article/abs/pii/S0921818121001399)
 
 * **Fontenelle, J. P.**, Portella Luna Marques, F., Kolmann, M. A., & Lovejoy, N. R. **(2021)**. Biogeography of the neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals effects of continent‐scale paleogeographic change and drainage evolution. _Journal of Biogeography_. [**(LINK)**](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14086)
 
