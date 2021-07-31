@@ -5,7 +5,7 @@ mathjax: true
 author: JP
 category: Press
 ---
-<img style="float: left; margin: 10px 10px 10px 10px" src="/img/bjls_phylo.jpg" width="200px" height="200px" border="2px">
+<img style="float: right; margin: 10px 10px 10px 10px" src="/img/bjls_phylo.jpg" width="200px" height="200px" border="2px">
 
 We have just published the most complete molecular phylogeny for the subfamily Potamotrygoninae in the [Biological Journal of the Linnean Society.](https://academic.oup.com/biolinnean)
 
