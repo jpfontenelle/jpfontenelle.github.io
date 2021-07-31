@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "News"
+layout: default
 ---
 
 {% if site.show_excerpts %}
