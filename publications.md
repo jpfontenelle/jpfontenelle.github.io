@@ -8,11 +8,11 @@ Last updated: July/2021
 
 # _Selected Publications_
 
-* **Fontenelle, J. P.**, Lovejoy, N. R., Kolmann, M. A., & Portella Luna Marques, F. **(2021)**. Molecular phylogeny for the Neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals limitations of traditional taxonomy. _Biological Journal of the Linnean Society_. [**(LINK)**](https://academic.oup.com/biolinnean/advance-article-abstract/doi/10.1093/biolinnean/blab090/6329148)
+* **Fontenelle, J. P.**, Lovejoy, N. R., Kolmann, M. A., & Marques, F. P. L. **(2021)**. Molecular phylogeny for the Neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals limitations of traditional taxonomy. _Biological Journal of the Linnean Society_. [**(LINK)**](https://academic.oup.com/biolinnean/advance-article-abstract/doi/10.1093/biolinnean/blab090/6329148)
 
 * Albert, J. S., Bernt, M. J., Fronk, A. H., **Fontenelle, J. P.**, Kuznar, S. L., Lovejoy, N. R. **(2021)**. Late Neogene megariver captures and the Great Amazonian Biotic Interchange. _Global and Planetary Change_. [**(LINK)**](https://www.sciencedirect.com/science/article/abs/pii/S0921818121001399)
 
-* **Fontenelle, J. P.**, Portella Luna Marques, F., Kolmann, M. A., & Lovejoy, N. R. **(2021)**. Biogeography of the neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals effects of continent‐scale paleogeographic change and drainage evolution. _Journal of Biogeography_. [**(LINK)**](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14086)
+* **Fontenelle, J. P.**, Marques, F. P. L., Kolmann, M. A., & Lovejoy, N. R. **(2021)**. Biogeography of the neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals effects of continent‐scale paleogeographic change and drainage evolution. _Journal of Biogeography_. [**(LINK)**](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14086)
 
 * Hauser, F. E., **Fontenelle, J. P.**, Elbassiouny, A. A., Mandrak, N. E., & Lovejoy, N. R. **(2019)**. Genetic structure of endangered lake chubsucker Erimyzon sucetta in Canada reveals a differentiated population in a precarious habitat. _Journal of fish biology_, 95(6), 1500-1505. [**(LINK)**](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.14155?casa_token=GX_xHBU1b3kAAAAA%3AmnleG-ZLn9cB2pfJg5CLX20ghglS8yUFxKjirMBGjkc_g7QAY4w2BXwzHyBHWYsSJyy_qRMgg0yC)
 
