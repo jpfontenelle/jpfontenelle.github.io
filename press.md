@@ -1,5 +1,6 @@
 ---
 title: "Press & Outreach"
+permalink: "/press/"
 layout: default
 ---
 
