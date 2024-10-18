@@ -4,9 +4,13 @@ permalink: "/publications/"
 title: "Publications"
 ---
 
-Last updated: July/2021
+Last updated: Sept/2024
 
 # _Selected Publications_
+
+* Elbassiouny A. A., **Fontenelle, J.P.**, Kočovský, P. M., Mandrak, N. E., Lovejoy, N. R. 2023. Genetic structure of the Silver Chub indicates distinctiveness of Lake Erie population. North American Journal of Fisheries Management, 43 (5): 1180-1189. [**(LINK)**](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/nafm.10888)
+
+* Frable B. W., Melo, B. F., **Fontenelle, J.P.**, Oliveira, C., Sidlauskas, B. L. **(2022)**. Biogeographic reconstruction of the migratory Neotropical fish family Prochilodontidae (Teleostei: Characiformes). Zoologica Scripta, 51 (3): 348-364. [**(LINK)**](https://onlinelibrary.wiley.com/doi/10.1111/zsc.12531)
 
 * **Fontenelle, J. P.**, Lovejoy, N. R., Kolmann, M. A., & Marques, F. P. L. **(2021)**. Molecular phylogeny for the Neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals limitations of traditional taxonomy. _Biological Journal of the Linnean Society_. [**(LINK)**](https://academic.oup.com/biolinnean/advance-article-abstract/doi/10.1093/biolinnean/blab090/6329148)
 
@@ -21,8 +25,6 @@ Last updated: July/2021
 * **Fontenelle, J. P.**, & De Carvalho, M. R. **(2017)**. Systematic revision of the _Potamotrygon scobina_ Garman, 1913 species-complex (Chondrichthyes: Myliobatiformes: Potamotrygonidae), with the description of three new freshwater stingray species from Brazil and comments on their distribution and biogeography. _Zootaxa_, 4310(1), 1-63. [**(LINK)**](https://www.mapress.com/j/zt/article/view/zootaxa.4310.1.1)
 
 * **Fontenelle, J. P.**, & de Carvalho, M. R. **(2016)**. Systematic implications of brain morphology in Potamotrygonidae (Chondrichthyes: Myliobatiformes). _Journal of morphology_, 277(2), 252-263. [**(LINK)**](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20493?casa_token=uVGwW6UDdNAAAAAA%3A4ioYlX14v5dC9E6jyXXB_3cZ1QKm6PwmjGvlBR-ATaEyQb6QoloKw2uVFbZNuRyV1TvM1ALJjh5E)
-
-* **Fontenelle, J. P.**, Da Silva, J. P., & De Carvalho, M. R. **(2014)**. _Potamotrygon limai_, sp. nov., a new species of freshwater stingray from the upper Madeira River system, Amazon basin (Chondrichthyes: Potamotrygonidae). _Zootaxa_, 3765(3), 249-268. [**(LINK)**](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3765.3.2)
 
 ------------------------------
 
