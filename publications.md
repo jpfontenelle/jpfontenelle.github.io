@@ -8,7 +8,7 @@ Last updated: Sept/2024
 
 # _Selected Publications_
 
-* Elbassiouny A. A., **Fontenelle, J.P.**, Kočovský, P. M., Mandrak, N. E., Lovejoy, N. R. 2023. Genetic structure of the Silver Chub indicates distinctiveness of Lake Erie population. North American Journal of Fisheries Management, 43 (5): 1180-1189. [**(LINK)**](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/nafm.10888)
+* Elbassiouny A. A., **Fontenelle, J.P.**, Kočovský, P. M., Mandrak, N. E., Lovejoy, N. R. **(2023)**. Genetic structure of the Silver Chub indicates distinctiveness of Lake Erie population. North American Journal of Fisheries Management, 43 (5): 1180-1189. [**(LINK)**](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/nafm.10888)
 
 * Frable B. W., Melo, B. F., **Fontenelle, J.P.**, Oliveira, C., Sidlauskas, B. L. **(2022)**. Biogeographic reconstruction of the migratory Neotropical fish family Prochilodontidae (Teleostei: Characiformes). Zoologica Scripta, 51 (3): 348-364. [**(LINK)**](https://onlinelibrary.wiley.com/doi/10.1111/zsc.12531)
 
