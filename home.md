@@ -5,6 +5,6 @@ title: "Home"
 
 
 # João Pedro (JP) Fontenelle, PhD
-### Post Doctoral Fellow
+### OG-CO Postdoctoral Fellow in Genome Data Science
 ### University of Toronto
 
