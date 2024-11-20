@@ -4,9 +4,11 @@ permalink: "/publications/"
 title: "Publications"
 ---
 
-Last updated: Sept/2024
+Last updated: Nov/2024
 
 # _Selected Publications_
+
+* **Fontenelle, J.P.**; Larroque, J.; Legault, S.; Wittische, J.; Underwood, J.A.R.; James, P.M.A. **(2024)**. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. Ecology. [**(LINK)**](https://doi.org/10.1002/ecy.4466)
 
 * Elbassiouny A. A., **Fontenelle, J.P.**, Kočovský, P. M., Mandrak, N. E., Lovejoy, N. R. **(2023)**. Genetic structure of the Silver Chub indicates distinctiveness of Lake Erie population. North American Journal of Fisheries Management, 43 (5): 1180-1189. [**(LINK)**](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/nafm.10888)
 
@@ -24,7 +26,9 @@ Last updated: Sept/2024
 
 * **Fontenelle, J. P.**, & De Carvalho, M. R. **(2017)**. Systematic revision of the _Potamotrygon scobina_ Garman, 1913 species-complex (Chondrichthyes: Myliobatiformes: Potamotrygonidae), with the description of three new freshwater stingray species from Brazil and comments on their distribution and biogeography. _Zootaxa_, 4310(1), 1-63. [**(LINK)**](https://www.mapress.com/j/zt/article/view/zootaxa.4310.1.1)
 
+::: {.content-hidden}
 * **Fontenelle, J. P.**, & de Carvalho, M. R. **(2016)**. Systematic implications of brain morphology in Potamotrygonidae (Chondrichthyes: Myliobatiformes). _Journal of morphology_, 277(2), 252-263. [**(LINK)**](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20493?casa_token=uVGwW6UDdNAAAAAA%3A4ioYlX14v5dC9E6jyXXB_3cZ1QKm6PwmjGvlBR-ATaEyQb6QoloKw2uVFbZNuRyV1TvM1ALJjh5E)
+:::
 
 ------------------------------
 
